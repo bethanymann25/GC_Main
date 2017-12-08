@@ -38,6 +38,7 @@
 									in New York City<br />
 									Information provided by Local Leaf.</p>
 								<img src="LocalLeaf1.jpeg" alt="LocalLeaf" width="200" /></td>
+
 			<td> <span class="date">July 12, 2017</span>
 				<h4><a href="Gc_VeganBurger.html">Sustainable Burgers</a></h4>
 									<p>An East Village vegan burger place<br />
