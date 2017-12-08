@@ -24,21 +24,22 @@
 									in New York City<br />
 									Blog provided by Ecocult.</p>
 								<img src="abckitchen2.jpg" alt="abckitchen" width="200"/></td>
+            
 			<td><span class="date">October 30, 2017</span>
-				<h4><a href="GC_RestaurantsinHK.html">New Sustainable Restaurant</a></h4>
+				<h4><a href="RestaurantsinHK.html">New Sustainable Restaurant</a></h4>
 									<p>Learn about the sustainable restaurant<br />
 									in Hong Kong<br />
 									Blog provided by style.sina.com</p>
-								<img src="restaurantinHK.jpg" alt="HongKong" width="200"/></td>
+								<img src="1c.jpg" alt="HongKong" width="200" /></td>
 		</tr>
 		<tr>
 			<td><span class="date">September 25, 2017</span>
-				<h4><a href="GC_LocalLeaf.html">New Sustainable Restaurant</a></h4>
+				<h4><a href="Gc_VeganBurger.html">New Sustainable Restaurant</a></h4>
 									<p>Learn about the entire sustainable menu<br />
 									in New York City<br />
 									Information provided by Local Leaf.</p>
 								<img src="LocalLeaf1.jpeg" alt="LocalLeaf" width="200" /></td>
-
+            
 			<td> <span class="date">July 12, 2017</span>
 				<h4><a href="Gc_VeganBurger.html">Sustainable Burgers</a></h4>
 									<p>An East Village vegan burger place<br />
@@ -47,10 +48,10 @@
 		</tr>
 		<tr>
 			<td><span class="date">July 12, 2017</span>
-				<h4><a href="FoodSafety.html">Food Safety in China</a></h4>
+				<h4><a href="foodsafetyinChina.html">Food Safety in China</a></h4>
 									<p>Here is more information about food safety in China<br />
 									Blog provided by Food Newsfeed.</p>
-								<img src="images/abckitchen2.jpg" alt="abckitchen" width="100" /></td>
+								<img src="banner.jpg" alt="FoodSafety" width="200" /></td>
             
 			<td> <span class="date">July 11, 2017</span>
 				<h4><a href="GC_Graffiti.html">Tribeca Sustainable Restaurant</a></h4>
@@ -64,7 +65,6 @@
 
     <h1> <p>Links to other places just in case</p>
 <a href="GC_bio.html">Contact Us!</a>
-<a href=""></a>
     <br/>
     <br/>
     </h1>
